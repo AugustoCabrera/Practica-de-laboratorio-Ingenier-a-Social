@@ -24,11 +24,18 @@ Diríjanse a los siguientes sitios web (o consulte otros) y léanlos por complet
 
 3. **¿Considera que las redes sociales son una amenaza de ingeniería social? ¿Por qué?**
 
+
+Las personas tienden a compartir información en redes sociales que parece inofensiva, pero puede ser explotada por hackers para el robo de identidad. Las plataformas fomentan este intercambio para personalizar la publicidad y aumentar sus ingresos. Es importante evitar compartir información como nombre completo, fecha de nacimiento, y otros datos sensibles.
+
+Además, los hackers usan ingeniería social para crear perfiles falsos que parecen legítimos. Un caso en 2015 reveló más de dos docenas de perfiles falsos en LinkedIn, diseñados para infiltrarse en diversas industrias, como telecomunicaciones y defensa. Aunque los investigadores expusieron la red fraudulenta, ya había establecido conexiones con más de 500 personas. Identificar estos fraudes es complejo y requiere mucho tiempo, lo que dificulta la protección.
+
+
+
+
+
 4. **¿Qué puede hacer una organización para defenderse de ataques de ingeniería social?**
 
 5. **¿Qué es el SANS Institute, el autor de este artículo?**
-
-
 
 
 
